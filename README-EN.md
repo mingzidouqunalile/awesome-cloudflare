@@ -169,6 +169,7 @@ Feel free to submit PRs and issues to update the content. If you have any questi
 | [xugou](https://github.com/zaunist/xugou)| A website monitoring and server monitoring tool based on CloudFlare. | https://xugou.mdzz.uk/ |  Under maintenance |
 | [deploy-mcp](https://github.com/alexpota/deploy-mcp) | Universal deployment tracker for AI assistants with live status badges and deployment monitoring, including Cloudflare Pages support. | https://deploy-mcp.io | Active |
 | [oddin-status](https://github.com/oddinpay/oddin-status) | Beautiful status page & uptime monitor. Ready for production out of the box. | <https://status.oddinpay.com/> | Active |
+| [Prismix](https://prismix.dev) | Real-time status aggregator for 76 AI services (OpenAI, Anthropic, Cursor, and more), built entirely on Cloudflare Workers + KV. Features email/webhook alerts, 30-day uptime history, status badges, AI news aggregation, and MCP server directory. | <https://prismix.dev> | Active |
 
 
 ## Articles
