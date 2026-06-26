@@ -123,6 +123,7 @@
 | 名称 | 特性 |在线地址 | 状态|
 | --- | --- | --- |---|
 | [nextflare](https://github.com/ccbikai/nextflare) |Next.js App running with Lemon Squeezy on Cloudflare. |   <https://nextflare-template.pages.dev/> | 维护中|
+| [create-microservices-app](https://github.com/microservices-sh/microservices-sh/tree/main/packages/create-microservices-app) | Scaffold a Cloudflare-native SaaS app — Workers, D1, SvelteKit/Hono, with verified auth, booking, payment & email modules. | <https://microservices.sh> | 维护中|
 
 ## 短链
 
